@@ -1,0 +1,16 @@
+.header {
+    background-color: #e50914;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+  }
+
+
+
+

@@ -39,22 +39,22 @@ const Home = () => {
         <img src={logo} alt="Netflix Logo" className="logo" />
 
         <div className={`nav-links ${menuOpen ? "active" : ""}`}>
-          <a href="#" className="w3-bar-item w3-button">
+          <a href="/" className="w3-bar-item w3-button">
             Home
           </a>
-          <a href="#" className="w3-bar-item w3-button">
+          <a href="/" className="w3-bar-item w3-button">
             TV Shows
           </a>
-          <a href="#" className="w3-bar-item w3-button">
+          <a href="/" className="w3-bar-item w3-button">
             Movies
           </a>
-          <a href="#" className="w3-bar-item w3-button">
+          <a href="/" className="w3-bar-item w3-button">
             News & Popular
           </a>
-          <a href="#" className="w3-bar-item w3-button">
+          <a href="/" className="w3-bar-item w3-button">
             My List
           </a>
-          <a href="#" className="w3-bar-item w3-button">
+          <a href="/" className="w3-bar-item w3-button">
             Browse by Languages
           </a>
         </div>
